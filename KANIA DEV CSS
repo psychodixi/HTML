@@ -1,0 +1,23 @@
+.carousel-inner img {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    height: 600px;
+      
+}
+
+.container img {
+    max-width: 100%; /* Hace que la imagen no supere el ancho del contenedor */
+    width: auto;
+    height: auto; /* Mantiene la proporción de aspecto */
+  }
+  
+
+body{
+    background-color: black;
+}
+
+p{
+    color: whitesmoke;
+}
+
