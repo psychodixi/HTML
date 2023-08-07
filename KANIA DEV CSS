@@ -6,18 +6,31 @@
       
 }
 
+.container{
+    background-color: #FDFEFE;
+}
+
 .container img {
     max-width: 100%; /* Hace que la imagen no supere el ancho del contenedor */
     width: auto;
     height: auto; /* Mantiene la proporción de aspecto */
-  }
+    background-color: #FDFEFE;
+}
   
 
 body{
-    background-color: black;
+    background-color: #FDFEFE;
+}
+
+hr{
+    color: #FDFEFE;
 }
 
 p{
-    color: whitesmoke;
+    color: black;
+}
+
+section{
+    background-color: #FDFEFE;
 }
 
